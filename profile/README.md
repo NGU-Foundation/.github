@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to NGU otherwise known as Number Go Up ##
 
 <!-- NGU
 
